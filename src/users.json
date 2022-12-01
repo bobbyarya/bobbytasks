@@ -1,0 +1,14 @@
+{
+    "letters": [
+      {
+        "name": "Alpha",
+        "alt": "Greek Alpha Letter",
+        "path": "./assets/logo.png"
+      },
+      {
+        "name": "Beta",
+        "alt": "Greek Gamma Letter",
+        "path": "logo.png"
+      }
+    ]
+  }
