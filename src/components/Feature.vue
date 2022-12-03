@@ -42,18 +42,18 @@
     </div> -->
 
     </div>
-    <Recents/>
+    <!-- <Recents/> -->
     </template>
     
     <script>    
     import usersData from "../products.json";
     import Category from "./Category.vue";       
-    import Recents from "./Recentspro.vue";
+    // import Recents from "./Recentspro.vue";
     export default {    
             name : 'feature-part',
             components:{
                 Category,
-                Recents
+                // Recents
             },
     data: function () {
         return {
